@@ -11,5 +11,10 @@ Launch this project in Ren'Py
 
 Contact us if you need more help!
 
+Discord invite link (expires after 5 uses)
+https://discord.gg/jtn8pgG
+
+
+
 ![Main Menu](/concept_images/main_menu.png "Main Menu")
 ![In Game](/concept_images/in_game.png "In Game")
