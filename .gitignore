@@ -2,6 +2,10 @@ log.txt
 traceback.txt
 errors.txt
 
+.DS_Store
+
+.android.json
+
 *.rpyc
 *.rpymc
 *.rpyb
